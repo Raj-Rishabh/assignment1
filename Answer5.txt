@@ -1,0 +1,4 @@
+How to connect local repo to GitHub repo ?
+
+git config -- global user.name "[name"
+Git config -- global user.email "[email address]"
