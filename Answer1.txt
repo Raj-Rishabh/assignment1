@@ -1,3 +1,5 @@
 1. Open terminal and write "ssh-get" to get the unique ssh key .
 2. Go to the folder location shown in terminal and copy that public ssh key and paste it in "ssh and gpg keys" setting in your GitHub Account.
-3. Now you are connected .
+3. Add appropriate title and click on Add Key
+4. Enter Password
+5. Now you are connected .
