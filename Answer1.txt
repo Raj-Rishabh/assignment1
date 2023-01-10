@@ -1,3 +1,5 @@
+Q How to use SSH in Github?
+
 1. Open terminal and write "ssh-get" to get the unique ssh key .
 2. Go to the folder location shown in terminal and copy that public ssh key and paste it in "ssh and gpg keys" setting in your GitHub Account.
 3. Add appropriate title and click on Add Key
