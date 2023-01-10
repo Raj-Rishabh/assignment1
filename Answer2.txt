@@ -1,4 +1,7 @@
+Q Initilize to push 
+
+
 1. git init
 2. git add
 3. git commit -m"new repo"
-4. Git push origin master
+4. git push origin master
