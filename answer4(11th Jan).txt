@@ -1,0 +1,4 @@
+command to reset commit
+
+
+git reset --hard commitID
