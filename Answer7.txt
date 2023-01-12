@@ -1,0 +1,12 @@
+Q. Explain about all the primitive data types in javascript.
+
+Number :A number data type can be an integer, a floating point value, an exponential value, a ‘NaN’ or a ‘Infinity’.
+
+String : The string data type in JavaScript can be any group of characters enclosed by a single or double-quotes or by backticks.
+
+Boolean : The boolean data type has only two values, true and false. It is mostly used to check a logical condition.
+
+
+Undefined: Undefined data type means a variable that is not defined. The variable is declared but doesn’t contain any value.
+
+Null: The null in JavaScript is a data type that is represented by only one value, the ‘null’ itself. A null value means no value.

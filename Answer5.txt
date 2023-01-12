@@ -1,5 +1,24 @@
-How to connect local repo to GitHub repo ?
+Q. Write program to show how to append, pop and sort elements in array in javascript.
 
-git config -- global user.name "[name"
-git config -- global user.email "[email address]"
-git push origin master
+
+Sorting:
+
+let numbers = [0, 1 , 2, 3, 10, 20, 30 ];
+numbers.sort();
+console.log(numbers);
+
+OUTPUT: [ 0, 1, 10, 2, 20, 3, 30 ]
+
+Pop:
+
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.pop();
+
+OUTPUT:[Banana,Orange,Apple]
+
+Append :
+
+const countries = ["India", "England", "Uganda"];
+countries.push("Kenya");
+
+OUTPUT : ["India", "England", "Uganda", "Kenya"]

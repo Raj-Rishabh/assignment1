@@ -1,7 +1,12 @@
-Q Initilize to push 
+Q. Explain the feature of nodejs like non-blocking, synchronous, single threaded.
 
 
-1. git init
-2. git add
-3. git commit -m"new repo"
-4. git push origin master
+Synchronous (or sync) execution usually refers to code executing in sequence.
+
+Non-blocking refers to code that doesn’t block execution. 
+
+Single Threaded :
+
+1.Clients Send request to Web Server.
+2.Node JS Web Server internally maintains a Limited Thread pool to provide services to the Client Requests.
+3. Node JS Web Server receives those requests and places them into a Queue. It is known as “Event Queue”.
